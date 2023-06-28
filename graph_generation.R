@@ -15,7 +15,7 @@ graph.data <- fread("Graphs/Graph_spreadsheet.csv")
 
 figure_1_data <- fread("Graphs/Graphs_Data/Figure_1.csv")
 figure.1 <- plot.column.bf(figure_1_data, "ai_per", "size",
-                         plot.fig.num = "Figure 2",
+                         plot.fig.num = "Figure 1",
                          plot.title= graph.data[graph.data$Figure_number=="Figure 1",Figure_title],
                          y.axis= graph.data[graph.data$Figure_number=="Figure 1",Y_Axis],
                          caption = graph.data[graph.data$Figure_number=="Figure 1",Caption],
