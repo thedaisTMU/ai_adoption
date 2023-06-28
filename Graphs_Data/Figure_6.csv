@@ -1,0 +1,20 @@
+﻿NAICS,GDP Contribution_000s,GDP Contribution,Employment_000s,Employment,AI Adoption Rate,Sector
+All industries,1977.3432,1977343.2,16176.725,16176725,4,Goods
+"Mining, quarrying, and oil and gas extraction",150.6023,150602.3,191.587,191587,4,Goods
+Utilities,42.2564,42256.4,124.372,124372,17,Goods
+Construction,150.7976,150797.6,1061.077,1061077,1,Goods
+Manufacturing ,187.2847,187284.7,1513.911,1513911,5,Goods
+Wholesale trade,107.5451,107545.1,790.388,790388,4,Services
+Retail trade,105.931,105931,1945.431,1945431,3,Services
+Transportation and warehousing,73.5189,73518.9,766.514,766514,4,Services
+Information and cultural industries,69.7106,69710.6,355.844,355844,13,Services
+Finance and insurance,151.0177,151017.7,763.57,763570,13,Services
+Real estate and rental and leasing,266.5584,266558.4,262.18,262180,3,Services
+"Professional, scientific and technical services",125.1916,125191.6,1049.705,1049705,9,Services
+Management of companies and enterprises,2.7704,2770.4,119.473,119473,5,Services
+Administrative and support,47.6534,47653.4,798.973,798973,6,Services
+Educational services,105.8723,105872.3,1330.523,1330523,7,Services
+Health care and social assistance,145.5152,145515.2,2140.47,2140470,2,Services
+"Arts, entertainment and recreation",9.4716,9471.6,224.168,224168,3,Services
+"Accommodation, food services",31.5768,31576.8,1033.918,1033918,1,Services
+Other services,35.5474,35547.4,497.285,497285,1,Services

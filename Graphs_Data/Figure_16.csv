@@ -1,0 +1,37 @@
+size,Percent,Reported_Use_of_AI
+All,23.8,Sales
+Small,25.5,Sales
+Medium,20.9,Sales
+Large,23.2,Sales
+All,17.8,Production
+Small,16.7,Production
+Medium,16.5,Production
+Large,24.5,Production
+All,22.4,Business Administration
+Small,24.1,Business Administration
+Medium,17.2,Business Administration
+Large,26.5,Business Administration
+All,17.4,Enterprise Solutions
+Small,20,Enterprise Solutions
+Medium,12.7,Enterprise Solutions
+Large,16.8,Enterprise Solutions
+All,8,Logistics
+Small,7.5,Logistics
+Medium,7.1,Logistics
+Large,11.5,Logistics
+All,18.7,ICT Security
+Small,12.4,ICT Security
+Medium,20.3,ICT Security
+Large,40.1,ICT Security
+All,9.1,Human Resources
+Small,11.5,Human Resources
+Medium,4.9,Human Resources
+Large,8.4,Human Resources
+All,12.7,Other
+Small,12.5,Other
+Medium,12.5,Other
+Large,14.1,Other
+All,30.9,No Listed Purpose
+Small,35.5,No Listed Purpose
+Medium,27.2,No Listed Purpose
+Large,20.7,No Listed Purpose

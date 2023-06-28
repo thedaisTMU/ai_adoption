@@ -1,0 +1,25 @@
+goods_industry2021,yes,type_of_ai
+FALSE,38,Machine Learning
+TRUE,35,Machine Learning
+Total,37,Machine Learning
+FALSE,19,Virtual Agents
+TRUE,17,Virtual Agents
+Total,19,Virtual Agents
+FALSE,26,Speech Recognition
+TRUE,10,Speech Recognition
+Total,24,Speech Recognition
+FALSE,18,Image Recognition
+TRUE,14,Image Recognition
+Total,17,Image Recognition
+FALSE,8,Hardware
+TRUE,19,Hardware
+Total,9,Hardware
+FALSE,37,Decision Management
+TRUE,43,Decision Management
+Total,37,Decision Management
+FALSE,5,Other
+TRUE,5,Other
+Total,5,Other
+FALSE,25,No Specific AI
+TRUE,12,No Specific AI
+Total,23,No Specific AI

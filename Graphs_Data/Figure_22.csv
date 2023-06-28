@@ -1,0 +1,33 @@
+size,Percent,variable
+All,28,Lack of knowledge of options
+Small,28.3,Lack of knowledge of options
+Medium,27.5,Lack of knowledge of options
+Large,20.2,Lack of knowledge of options
+All,69.1,No business needs
+Small,69,No business needs
+Medium,69.5,No business needs
+Large,70.2,No business needs
+All,8.2,Cost of implementation
+Small,7.6,Cost of implementation
+Medium,11,Cost of implementation
+Large,9.8,Cost of implementation
+All,8.7,Skills gap
+Small,8.2,Skills gap
+Medium,11.1,Skills gap
+Large,10.8,Skills gap
+All,4.8,Privacy or Security Concerns
+Small,4.5,Privacy or Security Concerns
+Medium,5.9,Privacy or Security Concerns
+Large,6,Privacy or Security Concerns
+All,5,Incompatability
+Small,4.2,Incompatability
+Medium,8,Incompatability
+Large,8.1,Incompatability
+All,2,Legal Concerns
+Small,1.7,Legal Concerns
+Medium,3.5,Legal Concerns
+Large,2.7,Legal Concerns
+All,12.6,Other
+Small,12.5,Other
+Medium,13,Other
+Large,13.7,Other
