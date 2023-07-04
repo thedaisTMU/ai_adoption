@@ -1,0 +1,33 @@
+region,yes,reason
+Ontario,31,Lack of knowledge of options
+Quebec,26,Lack of knowledge of options
+Rest of Canada,28,Lack of knowledge of options
+Total,29,Lack of knowledge of options
+Ontario,67,No business needs
+Quebec,72,No business needs
+Rest of Canada,68,No business needs
+Total,69,No business needs
+Ontario,8,Cost of implementation
+Quebec,9,Cost of implementation
+Rest of Canada,8,Cost of implementation
+Total,8,Cost of implementation
+Ontario,9,Skills gap
+Quebec,9,Skills gap
+Rest of Canada,9,Skills gap
+Total,9,Skills gap
+Ontario,5,Privacy or Security Concerns
+Quebec,2,Privacy or Security Concerns
+Rest of Canada,6,Privacy or Security Concerns
+Total,5,Privacy or Security Concerns
+Ontario,5,Incompatability
+Quebec,4,Incompatability
+Rest of Canada,6,Incompatability
+Total,5,Incompatability
+Ontario,2,Legal Concerns
+Quebec,1,Legal Concerns
+Rest of Canada,3,Legal Concerns
+Total,2,Legal Concerns
+Ontario,13,Other
+Quebec,10,Other
+Rest of Canada,13,Other
+Total,12,Other

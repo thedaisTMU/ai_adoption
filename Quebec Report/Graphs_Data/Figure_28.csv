@@ -1,0 +1,33 @@
+region,yes,type_of_ai
+Ontario,40,Machine Learning
+Quebec,27,Machine Learning
+Rest of Canada,43,Machine Learning
+Total,37,Machine Learning
+Ontario,29,Virtual Agents
+Quebec,17,Virtual Agents
+Rest of Canada,11,Virtual Agents
+Total,19,Virtual Agents
+Ontario,26,Speech Recognition
+Quebec,16,Speech Recognition
+Rest of Canada,30,Speech Recognition
+Total,24,Speech Recognition
+Ontario,16,Image Recognition
+Quebec,10,Image Recognition
+Rest of Canada,25,Image Recognition
+Total,17,Image Recognition
+Ontario,14,Hardware
+Quebec,6,Hardware
+Rest of Canada,7,Hardware
+Total,9,Hardware
+Ontario,35,Decision Management
+Quebec,25,Decision Management
+Rest of Canada,51,Decision Management
+Total,37,Decision Management
+Ontario,5,Other
+Quebec,7,Other
+Rest of Canada,4,Other
+Total,5,Other
+Ontario,22,No Specific AI
+Quebec,35,No Specific AI
+Rest of Canada,14,No Specific AI
+Total,23,No Specific AI

@@ -1,0 +1,33 @@
+region,yes,no,count,type_of_ai
+Ontario,0.4,0.6,4195,machine_learning
+Quebec,0.27,0.73,3625,machine_learning
+Rest of Canada,0.43,0.57,4075,machine_learning
+Total,0.37,0.63,11900,machine_learning
+Ontario,0.29,0.71,4195,virtual_agents
+Quebec,0.17,0.83,3625,virtual_agents
+Rest of Canada,0.11,0.89,4075,virtual_agents
+Total,0.19,0.81,11900,virtual_agents
+Ontario,0.26,0.74,4195,speech_recognition
+Quebec,0.16,0.85,3625,speech_recognition
+Rest of Canada,0.3,0.7,4075,speech_recognition
+Total,0.24,0.76,11900,speech_recognition
+Ontario,0.16,0.84,4195,image_analysis
+Quebec,0.1,0.9,3625,image_analysis
+Rest of Canada,0.25,0.75,4075,image_analysis
+Total,0.17,0.83,11900,image_analysis
+Ontario,0.14,0.86,4195,integrated_hardware
+Quebec,0.06,0.94,3625,integrated_hardware
+Rest of Canada,0.07,0.93,4075,integrated_hardware
+Total,0.09,0.91,11900,integrated_hardware
+Ontario,0.35,0.65,4195,workflow_automation
+Quebec,0.25,0.75,3625,workflow_automation
+Rest of Canada,0.51,0.49,4075,workflow_automation
+Total,0.37,0.63,11900,workflow_automation
+Ontario,0.05,0.95,4195,other
+Quebec,0.07,0.93,3625,other
+Rest of Canada,0.04,0.96,4075,other
+Total,0.05,0.95,11900,other
+Ontario,0.22,0.78,4195,dont_know
+Quebec,0.35,0.65,3625,dont_know
+Rest of Canada,0.14,0.86,4075,dont_know
+Total,0.23,0.77,11900,dont_know

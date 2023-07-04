@@ -1,0 +1,37 @@
+region,yes,use_case
+Ontario,16,Sales
+Quebec,36,Sales
+Rest of Canada,19,Sales
+Total,23,Sales
+Ontario,19,Production
+Quebec,16,Production
+Rest of Canada,19,Production
+Total,18,Production
+Ontario,17,Business Administration
+Quebec,14,Business Administration
+Rest of Canada,36,Business Administration
+Total,23,Business Administration
+Ontario,13,Enterprise Solutions
+Quebec,14,Enterprise Solutions
+Rest of Canada,27,Enterprise Solutions
+Total,18,Enterprise Solutions
+Ontario,5,Logistics
+Quebec,8,Logistics
+Rest of Canada,12,Logistics
+Total,8,Logistics
+Ontario,21,ICT Security
+Quebec,10,ICT Security
+Rest of Canada,24,ICT Security
+Total,19,ICT Security
+Ontario,8,Human Resources
+Quebec,5,Human Resources
+Rest of Canada,15,Human Resources
+Total,9,Human Resources
+Ontario,17,Other
+Quebec,10,Other
+Rest of Canada,10,Other
+Total,13,Other
+Ontario,35,No Listed Purpose
+Quebec,34,No Listed Purpose
+Rest of Canada,26,No Listed Purpose
+Total,31,No Listed Purpose

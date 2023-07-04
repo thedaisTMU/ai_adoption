@@ -1,0 +1,37 @@
+region,yes,no,count,use_case
+Ontario,0.16,0.84,4195,marketing_sales
+Quebec,0.36,0.64,3625,marketing_sales
+Rest of Canada,0.19,0.81,4075,marketing_sales
+Total,0.23,0.77,11900,marketing_sales
+Ontario,0.19,0.81,4195,production
+Quebec,0.16,0.84,3625,production
+Rest of Canada,0.19,0.81,4075,production
+Total,0.18,0.82,11900,production
+Ontario,0.17,0.83,4195,business_administration
+Quebec,0.14,0.86,3625,business_administration
+Rest of Canada,0.36,0.64,4075,business_administration
+Total,0.23,0.77,11900,business_administration
+Ontario,0.13,0.86,4195,enterprise_management
+Quebec,0.14,0.86,3625,enterprise_management
+Rest of Canada,0.27,0.73,4075,enterprise_management
+Total,0.18,0.82,11900,enterprise_management
+Ontario,0.05,0.95,4195,logistics
+Quebec,0.08,0.92,3625,logistics
+Rest of Canada,0.12,0.88,4075,logistics
+Total,0.08,0.92,11900,logistics
+Ontario,0.21,0.79,4195,ict_security
+Quebec,0.1,0.9,3625,ict_security
+Rest of Canada,0.24,0.76,4075,ict_security
+Total,0.19,0.81,11900,ict_security
+Ontario,0.08,0.92,4195,hr_recruiting
+Quebec,0.05,0.95,3625,hr_recruiting
+Rest of Canada,0.15,0.85,4075,hr_recruiting
+Total,0.09,0.91,11900,hr_recruiting
+Ontario,0.17,0.83,4195,other
+Quebec,0.1,0.9,3625,other
+Rest of Canada,0.1,0.9,4075,other
+Total,0.13,0.87,11900,other
+Ontario,0.35,0.65,4195,dont_know
+Quebec,0.34,0.66,3625,dont_know
+Rest of Canada,0.26,0.74,4075,dont_know
+Total,0.31,0.69,11900,dont_know

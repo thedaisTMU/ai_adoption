@@ -1,0 +1,33 @@
+region,yes,no,count,reason
+Ontario,0.31,0.69,109910,lack_knowledge
+Quebec,0.26,0.74,71025,lack_knowledge
+Rest of Canada,0.28,0.72,121900,lack_knowledge
+Total,0.29,0.71,302845,lack_knowledge
+Ontario,0.67,0.33,109910,no_business_need
+Quebec,0.72,0.28,71025,no_business_need
+Rest of Canada,0.68,0.32,121900,no_business_need
+Total,0.69,0.31,302845,no_business_need
+Ontario,0.08,0.92,109910,cost
+Quebec,0.09,0.91,71025,cost
+Rest of Canada,0.08,0.92,121900,cost
+Total,0.08,0.92,302845,cost
+Ontario,0.09,0.91,109910,lack_skills
+Quebec,0.09,0.91,71025,lack_skills
+Rest of Canada,0.09,0.91,121900,lack_skills
+Total,0.09,0.91,302845,lack_skills
+Ontario,0.05,0.95,109910,security_privacy_concerns
+Quebec,0.02,0.98,71025,security_privacy_concerns
+Rest of Canada,0.06,0.94,121900,security_privacy_concerns
+Total,0.05,0.95,302845,security_privacy_concerns
+Ontario,0.05,0.95,109910,incompatability_problems
+Quebec,0.04,0.96,71025,incompatability_problems
+Rest of Canada,0.06,0.94,121900,incompatability_problems
+Total,0.05,0.95,302845,incompatability_problems
+Ontario,0.02,0.98,109910,legal_barriers
+Quebec,0.01,0.99,71025,legal_barriers
+Rest of Canada,0.03,0.97,121900,legal_barriers
+Total,0.02,0.98,302845,legal_barriers
+Ontario,0.13,0.87,109910,other
+Quebec,0.1,0.9,71025,other
+Rest of Canada,0.13,0.87,121900,other
+Total,0.12,0.88,302845,other
