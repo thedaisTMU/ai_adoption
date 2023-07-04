@@ -1,25 +1,25 @@
 goods_industry2021,yes,reason
-FALSE,28,Lack of knowledge of options
-TRUE,33,Lack of knowledge of options
-Total,29,Lack of knowledge of options
-FALSE,69,No business needs
-TRUE,69,No business needs
-Total,69,No business needs
-FALSE,8,Cost of implementation
-TRUE,10,Cost of implementation
-Total,8,Cost of implementation
-FALSE,9,Skills gap
-TRUE,10,Skills gap
-Total,9,Skills gap
-FALSE,5,Privacy or Security Concerns
-TRUE,3,Privacy or Security Concerns
-Total,5,Privacy or Security Concerns
-FALSE,5,Incompatability
-TRUE,6,Incompatability
-Total,5,Incompatability
-FALSE,2,Legal Concerns
-TRUE,1,Legal Concerns
-Total,2,Legal Concerns
+FALSE,28,Lack knowledge of available technologies
+TRUE,33,Lack knowledge of available technologies
+Total,29,Lack knowledge of available technologies
+FALSE,69,No business needs identified
+TRUE,69,No business needs identified
+Total,69,No business needs identified
+FALSE,8,Cost of service or equipment
+TRUE,10,Cost of service or equipment
+Total,8,Cost of service or equipment
+FALSE,9,"Employees lack the skills, training or experience"
+TRUE,10,"Employees lack the skills, training or experience"
+Total,9,"Employees lack the skills, training or experience"
+FALSE,5,Security or privacy concerns
+TRUE,3,Security or privacy concerns
+Total,5,Security or privacy concerns
+FALSE,5,Incompatibility with existing equipment or software
+TRUE,6,Incompatibility with existing equipment or software
+Total,5,Incompatibility with existing equipment or software
+FALSE,2,"Legal issues, barriers or concerns"
+TRUE,1,"Legal issues, barriers or concerns"
+Total,2,"Legal issues, barriers or concerns"
 FALSE,13,Other
 TRUE,10,Other
 Total,12,Other

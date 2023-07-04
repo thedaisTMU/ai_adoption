@@ -1,32 +1,32 @@
 size,Percent,variable
-All,28,Lack of knowledge of options
-Small,28.3,Lack of knowledge of options
-Medium,27.5,Lack of knowledge of options
-Large,20.2,Lack of knowledge of options
-All,69.1,No business needs
-Small,69,No business needs
-Medium,69.5,No business needs
-Large,70.2,No business needs
-All,8.2,Cost of implementation
-Small,7.6,Cost of implementation
-Medium,11,Cost of implementation
-Large,9.8,Cost of implementation
-All,8.7,Skills gap
-Small,8.2,Skills gap
-Medium,11.1,Skills gap
-Large,10.8,Skills gap
-All,4.8,Privacy or Security Concerns
-Small,4.5,Privacy or Security Concerns
-Medium,5.9,Privacy or Security Concerns
-Large,6,Privacy or Security Concerns
-All,5,Incompatability
-Small,4.2,Incompatability
-Medium,8,Incompatability
-Large,8.1,Incompatability
-All,2,Legal Concerns
-Small,1.7,Legal Concerns
-Medium,3.5,Legal Concerns
-Large,2.7,Legal Concerns
+All,28,Lack knowledge of available technologies
+Small,28.3,Lack knowledge of available technologies
+Medium,27.5,Lack knowledge of available technologies
+Large,20.2,Lack knowledge of available technologies
+All,69.1,No business needs identified
+Small,69,No business needs identified
+Medium,69.5,No business needs identified
+Large,70.2,No business needs identified
+All,8.2,Cost of service or equipment
+Small,7.6,Cost of service or equipment
+Medium,11,Cost of service or equipment
+Large,9.8,Cost of service or equipment
+All,8.7,"Employees lack the skills, training or experience"
+Small,8.2,"Employees lack the skills, training or experience"
+Medium,11.1,"Employees lack the skills, training or experience"
+Large,10.8,"Employees lack the skills, training or experience"
+All,4.8,Security or privacy concerns
+Small,4.5,Security or privacy concerns
+Medium,5.9,Security or privacy concerns
+Large,6,Security or privacy concerns
+All,5,Incompatibility with existing equipment or software
+Small,4.2,Incompatibility with existing equipment or software
+Medium,8,Incompatibility with existing equipment or software
+Large,8.1,Incompatibility with existing equipment or software
+All,2,"Legal issues, barriers or concerns"
+Small,1.7,"Legal issues, barriers or concerns"
+Medium,3.5,"Legal issues, barriers or concerns"
+Large,2.7,"Legal issues, barriers or concerns"
 All,12.6,Other
 Small,12.5,Other
 Medium,13,Other

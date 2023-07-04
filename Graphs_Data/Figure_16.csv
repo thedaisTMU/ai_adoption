@@ -1,32 +1,32 @@
 size,Percent,Reported_Use_of_AI
-All,23.8,Sales
-Small,25.5,Sales
-Medium,20.9,Sales
-Large,23.2,Sales
-All,17.8,Production
-Small,16.7,Production
-Medium,16.5,Production
-Large,24.5,Production
-All,22.4,Business Administration
-Small,24.1,Business Administration
-Medium,17.2,Business Administration
-Large,26.5,Business Administration
-All,17.4,Enterprise Solutions
-Small,20,Enterprise Solutions
-Medium,12.7,Enterprise Solutions
-Large,16.8,Enterprise Solutions
-All,8,Logistics
-Small,7.5,Logistics
-Medium,7.1,Logistics
-Large,11.5,Logistics
-All,18.7,ICT Security
-Small,12.4,ICT Security
-Medium,20.3,ICT Security
-Large,40.1,ICT Security
-All,9.1,Human Resources
-Small,11.5,Human Resources
-Medium,4.9,Human Resources
-Large,8.4,Human Resources
+All,23.8,For marketing or sales
+Small,25.5,For marketing or sales
+Medium,20.9,For marketing or sales
+Large,23.2,For marketing or sales
+All,17.8,For production processes
+Small,16.7,For production processes
+Medium,16.5,For production processes
+Large,24.5,For production processes
+All,22.4,For business administration processes
+Small,24.1,For business administration processes
+Medium,17.2,For business administration processes
+Large,26.5,For business administration processes
+All,17.4,For management of enterprises
+Small,20,For management of enterprises
+Medium,12.7,For management of enterprises
+Large,16.8,For management of enterprises
+All,8,For logistics
+Small,7.5,For logistics
+Medium,7.1,For logistics
+Large,11.5,For logistics
+All,18.7,For ICT security
+Small,12.4,For ICT security
+Medium,20.3,For ICT security
+Large,40.1,For ICT security
+All,9.1,For human resources management or recruiting
+Small,11.5,For human resources management or recruiting
+Medium,4.9,For human resources management or recruiting
+Large,8.4,For human resources management or recruiting
 All,12.7,Other
 Small,12.5,Other
 Medium,12.5,Other

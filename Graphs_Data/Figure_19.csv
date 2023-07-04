@@ -1,25 +1,25 @@
 goods_industry2021,yes,use_case
-FALSE,23,Sales
-TRUE,23,Sales
-Total,23,Sales
-FALSE,15,Production
-TRUE,39,Production
-Total,18,Production
-FALSE,24,Business Administration
-TRUE,14,Business Administration
-Total,23,Business Administration
-FALSE,20,Enterprise Solutions
-TRUE,6,Enterprise Solutions
-Total,18,Enterprise Solutions
-FALSE,8,Logistics
-TRUE,8,Logistics
-Total,8,Logistics
-FALSE,18,ICT Security
-TRUE,19,ICT Security
-Total,19,ICT Security
-FALSE,10,Human Resources
-TRUE,5,Human Resources
-Total,9,Human Resources
+FALSE,23,For marketing or sales
+TRUE,23,For marketing or sales
+Total,23,For marketing or sales
+FALSE,15,For production processes
+TRUE,39,For production processes
+Total,18,For production processes
+FALSE,24,For business administration processes
+TRUE,14,For business administration processes
+Total,23,For business administration processes
+FALSE,20,For management of enterprises
+TRUE,6,For management of enterprises
+Total,18,For management of enterprises
+FALSE,8,For logistics
+TRUE,8,For logistics
+Total,8,For logistics
+FALSE,18,For ICT security
+TRUE,19,For ICT security
+Total,19,For ICT security
+FALSE,10,For human resources management or recruiting
+TRUE,5,For human resources management or recruiting
+Total,9,For human resources management or recruiting
 FALSE,13,Other
 TRUE,6,Other
 Total,13,Other

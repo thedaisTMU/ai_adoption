@@ -1,22 +1,22 @@
 goods_industry2021,yes,type_of_ai
-FALSE,38,Machine Learning
-TRUE,35,Machine Learning
-Total,37,Machine Learning
-FALSE,19,Virtual Agents
-TRUE,17,Virtual Agents
-Total,19,Virtual Agents
-FALSE,26,Speech Recognition
-TRUE,10,Speech Recognition
-Total,24,Speech Recognition
-FALSE,18,Image Recognition
-TRUE,14,Image Recognition
-Total,17,Image Recognition
-FALSE,8,Hardware
-TRUE,19,Hardware
-Total,9,Hardware
-FALSE,37,Decision Management
-TRUE,43,Decision Management
-Total,37,Decision Management
+FALSE,38,Machine learning
+TRUE,35,Machine learning
+Total,37,Machine learning
+FALSE,19,Virtual agents
+TRUE,17,Virtual agents
+Total,19,Virtual agents
+FALSE,26,Automatic speech recognition
+TRUE,10,Automatic speech recognition
+Total,24,Automatic speech recognition
+FALSE,18,Face recognition systems and other image-analysis software
+TRUE,14,Face recognition systems and other image-analysis software
+Total,17,Face recognition systems and other image-analysis software
+FALSE,8,Hardware with integrated artificial intelligence
+TRUE,19,Hardware with integrated artificial intelligence
+Total,9,Hardware with integrated artificial intelligence
+FALSE,37,Technologies that automate workflows or assist in decision making
+TRUE,43,Technologies that automate workflows or assist in decision making
+Total,37,Technologies that automate workflows or assist in decision making
 FALSE,5,Other
 TRUE,5,Other
 Total,5,Other

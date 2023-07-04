@@ -1,33 +1,33 @@
-"Description","NAICS","size","year","Type_of_AI","Percent"
-"Private Sector","","all","2021","Machine Learning",37.3
-"Private Sector","","small","2021","Machine Learning",29.8
-"Private Sector","","medium","2021","Machine Learning",43.1
-"Private Sector","","large","2021","Machine Learning",54.4
-"Private Sector","","all","2021","Virtual Agents",19.1
-"Private Sector","","small","2021","Virtual Agents",15.4
-"Private Sector","","medium","2021","Virtual Agents",25.6
-"Private Sector","","large","2021","Virtual Agents",20.8
-"Private Sector","","all","2021","Speech Recognition",24.1
-"Private Sector","","small","2021","Speech Recognition",19.8
-"Private Sector","","medium","2021","Speech Recognition",29.8
-"Private Sector","","large","2021","Speech Recognition",29.3
-"Private Sector","","all","2021","Image Recognition",17
-"Private Sector","","small","2021","Image Recognition",14
-"Private Sector","","medium","2021","Image Recognition",22.9
-"Private Sector","","large","2021","Image Recognition",16.7
-"Private Sector","","all","2021","Hardware",9.4
-"Private Sector","","small","2021","Hardware",5.5
-"Private Sector","","medium","2021","Hardware",17.2
-"Private Sector","","large","2021","Hardware",8.3
-"Private Sector","","all","2021","Decision Management",36.8
-"Private Sector","","small","2021","Decision Management",33
-"Private Sector","","medium","2021","Decision Management",37.6
-"Private Sector","","large","2021","Decision Management",50.3
-"Private Sector","","all","2021","Other",4.9
-"Private Sector","","small","2021","Other",5
-"Private Sector","","medium","2021","Other",4.2
-"Private Sector","","large","2021","Other",6
-"Private Sector","","all","2021","No Specific AI",24
-"Private Sector","","small","2021","No Specific AI",33.5
-"Private Sector","","medium","2021","No Specific AI",12.9
-"Private Sector","","large","2021","No Specific AI",9.7
+Description,NAICS,size,year,Type_of_AI,Percent
+Private Sector,,all,2021,Machine learning,37.3
+Private Sector,,small,2021,Machine learning,29.8
+Private Sector,,medium,2021,Machine learning,43.1
+Private Sector,,large,2021,Machine learning,54.4
+Private Sector,,all,2021,Virtual agents,19.1
+Private Sector,,small,2021,Virtual agents,15.4
+Private Sector,,medium,2021,Virtual agents,25.6
+Private Sector,,large,2021,Virtual agents,20.8
+Private Sector,,all,2021,Automatic speech recognition,24.1
+Private Sector,,small,2021,Automatic speech recognition,19.8
+Private Sector,,medium,2021,Automatic speech recognition,29.8
+Private Sector,,large,2021,Automatic speech recognition,29.3
+Private Sector,,all,2021,Face recognition systems and other image-analysis software,17
+Private Sector,,small,2021,Face recognition systems and other image-analysis software,14
+Private Sector,,medium,2021,Face recognition systems and other image-analysis software,22.9
+Private Sector,,large,2021,Face recognition systems and other image-analysis software,16.7
+Private Sector,,all,2021,Hardware with integrated artificial intelligence,9.4
+Private Sector,,small,2021,Hardware with integrated artificial intelligence,5.5
+Private Sector,,medium,2021,Hardware with integrated artificial intelligence,17.2
+Private Sector,,large,2021,Hardware with integrated artificial intelligence,8.3
+Private Sector,,all,2021,Technologies that automate workflows or assist in decision making,36.8
+Private Sector,,small,2021,Technologies that automate workflows or assist in decision making,33
+Private Sector,,medium,2021,Technologies that automate workflows or assist in decision making,37.6
+Private Sector,,large,2021,Technologies that automate workflows or assist in decision making,50.3
+Private Sector,,all,2021,Other,4.9
+Private Sector,,small,2021,Other,5
+Private Sector,,medium,2021,Other,4.2
+Private Sector,,large,2021,Other,6
+Private Sector,,all,2021,No Specific AI,24
+Private Sector,,small,2021,No Specific AI,33.5
+Private Sector,,medium,2021,No Specific AI,12.9
+Private Sector,,large,2021,No Specific AI,9.7
