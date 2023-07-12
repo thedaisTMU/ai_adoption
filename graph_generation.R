@@ -16,7 +16,7 @@ graph.data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_D
 
 
 figure_1_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_1.csv")
-figure.1 <- plot.column.dais(figure_1_data, ai_per, size,
+figure.1 <- plot.column.dais(figure_1_data, ai_per, year, order.bar="ascending", label=FALSE,
                            plot.fig.num = "Figure 1",
                            plot.title= graph.data[graph.data$Figure_number=="Figure 1",Figure_title],
                            y.axis= graph.data[graph.data$Figure_number=="Figure 1",Y_Axis],
@@ -96,21 +96,20 @@ figure.6 <- ggplot2::ggplot(figure_6_data, aes(x = `GDP Contribution_000s`, y = 
        fill = "Legend")+ 
   guides(colour="none")
 
-
 figure_7_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_7.csv")
-figure.7 <- plot.column.dais(figure_7_data,percent_adopters, region, label=FALSE, order.bar="descending", 
-                           plot.fig.num = "Figure 7",
-                           plot.title= graph.data[graph.data$Figure_number=="Figure 7",Figure_title],
-                           y.axis= graph.data[graph.data$Figure_number=="Figure 7",Y_Axis],
-                           caption = graph.data[graph.data$Figure_number=="Figure 7",Caption],
-                           label.unit = graph.data[graph.data$Figure_number=="Figure 7",Y_Axis_Ticks],
-                           label.adjust = 0.025,
-                           export = TRUE,
-                           export.name = "F7") 
+figure.7 <- plot.column.dais(figure_7_data,Artificial_Intelligence, Group,label=FALSE,
+                             plot.fig.num = "Figure 7",
+                             plot.title= graph.data[graph.data$Figure_number=="Figure 7",Figure_title],
+                             y.axis= graph.data[graph.data$Figure_number=="Figure 7",Y_Axis],
+                             caption = graph.data[graph.data$Figure_number=="Figure 7",Caption],
+                             label.unit = graph.data[graph.data$Figure_number=="Figure 7",Y_Axis_Ticks],
+                             label.adjust = 0.025,
+                             export = TRUE,
+                             export.name = "F7") 
 
 
 figure_8_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_8.csv")
-figure.8 <- plot.column.dais(figure_8_data,Artificial_Intelligence, Group,label=FALSE,
+figure.8 <- plot.column.dais(figure_8_data,percent_adopters, region, label=FALSE, order.bar="descending", 
                            plot.fig.num = "Figure 8",
                            plot.title= graph.data[graph.data$Figure_number=="Figure 8",Figure_title],
                            y.axis= graph.data[graph.data$Figure_number=="Figure 8",Y_Axis],

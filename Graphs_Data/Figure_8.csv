@@ -1,7 +1,9 @@
-Province,Group,Artificial_Intelligence
-Canada,All,6.8
-Canada,Women,0.3
-Canada,Indigenous Peoples,0
-Canada,Immigrants,6.3
-Canada,Persons w/ disability,0
-Canada,Visible Minority,9.4
+region,percent_adopters
+Alberta,3
+Atlantic & Territories,2
+BC,4
+Manitoba,2
+Ontario,4
+Quebec,5
+Saskatchewan,4
+Canada,4
