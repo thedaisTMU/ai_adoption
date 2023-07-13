@@ -1,0 +1,20 @@
+﻿NAICS,Employment_000s,Employment,AI Adoption Rate,Sector
+All industries,16176.725,16176725,4,Goods
+"Mining, quarrying, and oil and gas extraction",191.587,191587,4,Goods
+Utilities,124.372,124372,17,Goods
+Construction,1061.077,1061077,1,Goods
+Manufacturing ,1513.911,1513911,5,Goods
+Wholesale trade,790.388,790388,4,Services
+Retail trade,1945.431,1945431,3,Services
+Transportation and warehousing,766.514,766514,4,Services
+Information and cultural industries,355.844,355844,13,Services
+Finance and insurance,763.57,763570,13,Services
+Real estate and rental and leasing,262.18,262180,3,Services
+"Professional, scientific and technical services",1049.705,1049705,9,Services
+Management of companies and enterprises,119.473,119473,5,Services
+Administrative and support,798.973,798973,6,Services
+Educational services,1330.523,1330523,7,Services
+Health care and social assistance,2140.47,2140470,2,Services
+"Arts, entertainment and recreation",224.168,224168,3,Services
+"Accommodation, food services",1033.918,1033918,1,Services
+Other services,497.285,497285,1,Services

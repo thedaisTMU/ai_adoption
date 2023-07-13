@@ -1,0 +1,20 @@
+﻿NAICS,GDP Contribution_000s,GDP Contribution,AI Adoption Rate,Sector
+All industries,1977.3432,1977343.2,4,Goods
+"Mining, quarrying, and oil and gas extraction",150.6023,150602.3,4,Goods
+Utilities,42.2564,42256.4,17,Goods
+Construction,150.7976,150797.6,1,Goods
+Manufacturing ,187.2847,187284.7,5,Goods
+Wholesale trade,107.5451,107545.1,4,Services
+Retail trade,105.931,105931,3,Services
+Transportation and warehousing,73.5189,73518.9,4,Services
+Information and cultural industries,69.7106,69710.6,13,Services
+Finance and insurance,151.0177,151017.7,13,Services
+Real estate and rental and leasing,266.5584,266558.4,3,Services
+"Professional, scientific and technical services",125.1916,125191.6,9,Services
+Management of companies and enterprises,2.7704,2770.4,5,Services
+Administrative and support,47.6534,47653.4,6,Services
+Educational services,105.8723,105872.3,7,Services
+Health care and social assistance,145.5152,145515.2,2,Services
+"Arts, entertainment and recreation",9.4716,9471.6,3,Services
+"Accommodation, food services",31.5768,31576.8,1,Services
+Other services,35.5474,35547.4,1,Services

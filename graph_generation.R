@@ -77,24 +77,58 @@ figure.5 <- plot.column.dais(figure_5_data,ai_per, description, order.bar="desce
 
 
 
-figure_6_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_6.csv")
+figure_6a_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_6A.csv") |>
+  dplyr::filter(NAICS!="All industries")  |>
+  dplyr::mutate(NAICS=stringr::str_wrap(NAICS, 15))
 
-figure_6_data <- dplyr::filter(figure_6_data, NAICS!="All industries") 
+figure.6A <- plot.scatter.dais(figure_6a_data,y=`AI Adoption Rate`, x=`GDP Contribution_000s`,
+                             plot.fig.num = "Figure 6A",
+                             plot.title= graph.data[graph.data$Figure_number=="Figure 6A",Figure_title],
+                             y.axis= graph.data[graph.data$Figure_number=="Figure 6A",Y_Axis],
+                             x.axis= graph.data[graph.data$Figure_number=="Figure 6A",X_Axis],
+                             caption = graph.data[graph.data$Figure_number=="Figure 6A",Caption],
+                             export = TRUE,
+                             export.name = "F6A") +
+  geom_text(aes(label=NAICS),
+        nudge_x=0.7, nudge_y=-0.3,
+        check_overlap=F,
+        size=3,
+        colour="black"
+      )
 
-figure.6 <- ggplot2::ggplot(figure_6_data, aes(x = `GDP Contribution_000s`, y = Employment_000s, label=NAICS, size = `AI Adoption Rate`, colour="eb0072")) +
-  geom_point(alpha = 0.7) + 
-  scale_size(range = c(5, 20)) +
-  labs(title = "AI Adoption and Economic Contribution of Industries", x = "GDP Contribution (in $1,000s)", y = "Employment (in 1000s)")+
-  geom_text(
-    nudge_x=0.45, nudge_y=0.1,
-    check_overlap=T,
-    size=3,
-    colour="black"
-  )+
-  dais.base.theme() + #Base theme
-  labs(title = "Figure 6",subtitle = graph.data[Figure_number=="Figure 6",Figure_title], caption = graph.data[Figure_number=="Figure 6",Caption],
-       fill = "Legend")+ 
-  guides(colour="none")
+figure_6b_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_6B.csv") |>
+  dplyr::filter(NAICS!="All industries")  |>
+  dplyr::mutate(NAICS=stringr::str_wrap(NAICS, 15))
+
+figure.6B <- plot.scatter.dais(figure_6b_data,y=`AI Adoption Rate`, x=`Employment_000s`,
+                               plot.fig.num = "Figure 6A",
+                               plot.title= graph.data[graph.data$Figure_number=="Figure 6B",Figure_title],
+                               y.axis= graph.data[graph.data$Figure_number=="Figure 6B",Y_Axis],
+                               x.axis= graph.data[graph.data$Figure_number=="Figure 6B",X_Axis],
+                               caption = graph.data[graph.data$Figure_number=="Figure 6B",Caption],
+                               export = TRUE,
+                               export.name = "F6B") +
+  geom_text(aes(label=NAICS),
+            nudge_x=0.7, nudge_y=-0.3,
+            check_overlap=F,
+            size=3,
+            colour="black"
+  )
+
+#figure.6 <- ggplot2::ggplot(figure_6_data, aes(x = `GDP Contribution_000s`, y = Employment_000s, label=NAICS, size = `AI Adoption Rate`, colour="eb0072")) +
+#  geom_point(alpha = 0.7) + 
+#  scale_size(range = c(5, 20)) +
+#  labs(title = "AI Adoption and Economic Contribution of Industries", x = "GDP Contribution (in $1,000s)", y = "Employment (in 1000s)")+
+#  geom_text(
+#    nudge_x=0.45, nudge_y=0.1,
+#    check_overlap=T,
+#    size=3,
+#    colour="black"
+#  )+
+#  dais.base.theme() + #Base theme
+#  labs(title = "Figure 6",subtitle = graph.data[Figure_number=="Figure 6",Figure_title], caption = graph.data[Figure_number=="Figure 6",Caption],
+#       fill = "Legend")+ 
+#  guides(colour="none")
 
 figure_7_data <- fread("C:/Users/alockhart/Desktop/AI Adoption/Dais Themes/Graphs_Data/Figure_7.csv")
 figure.7 <- plot.column.dais(figure_7_data,Artificial_Intelligence, Group,label=FALSE,
